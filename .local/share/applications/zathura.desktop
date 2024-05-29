@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name[ru]=Zathura
+Name=Zathura
+Comment[ru]=Минималистичный просмотрщик документов
+Comment=A minimalistic document viewer
+Exec=zathura %U
+Icon=zathura
+Terminal=false
+Categories=Office;Viewer;
+Keywords[ru]=PDF,PS,PostScript,DjVU,документ,презентация,просмотрщик;
+Keywords=PDF;PS;PostScript;DjVU;document;presentation;viewer;
+MimeType=application/pdf;

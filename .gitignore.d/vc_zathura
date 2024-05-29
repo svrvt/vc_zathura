@@ -1,0 +1,14 @@
+*
+!/.config/zathura/themes/catppuccin-mocha
+!/.config/zathura/themes/DarkGuide.png
+!/.config/zathura/themes/dracula-light
+!/.config/zathura/themes/dracula-light.png
+!/.config/zathura/themes/LightGuide.png
+!/.config/zathura/themes/zathura-gruvbox-dark
+!/.config/zathura/themes/zathura-gruvbox-light
+!/.config/zathura/themes/zathura-solarized-dark
+!/.config/zathura/themes/zathura-solarized-light
+!/.config/zathura/zathurarc
+!/.gitignore.d/vc_zathura
+!/.local/share/applications/zathura.desktop
+!/.local/share/icons/zathura.png
