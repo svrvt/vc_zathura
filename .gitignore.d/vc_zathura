@@ -1,4 +1,7 @@
 *
+!/.config
+!/.config/zathura
+!/.config/zathura/themes
 !/.config/zathura/themes/catppuccin-mocha
 !/.config/zathura/themes/DarkGuide.png
 !/.config/zathura/themes/dracula-light
@@ -9,6 +12,11 @@
 !/.config/zathura/themes/zathura-solarized-dark
 !/.config/zathura/themes/zathura-solarized-light
 !/.config/zathura/zathurarc
+!/.gitignore.d
 !/.gitignore.d/vc_zathura
+!/.local
+!/.local/share
+!/.local/share/applications
 !/.local/share/applications/zathura.desktop
+!/.local/share/icons
 !/.local/share/icons/zathura.png
