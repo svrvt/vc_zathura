@@ -1,5 +1,8 @@
 *
 !/.config
+!/.config/mr
+!/.config/mr/available.d
+!/.config/mr/available.d/vc_zathura
 !/.config/zathura
 !/.config/zathura/themes
 !/.config/zathura/themes/catppuccin-mocha
