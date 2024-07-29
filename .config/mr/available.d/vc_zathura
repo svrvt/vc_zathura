@@ -1,4 +1,4 @@
-[.config/vcsh/repo.d/vc_zathura.git]
-checkout = vcsh clone git@github.com:svrvt/vc_zathura.git
+[~/.config/vcsh/repo.d/vc_zathura.git]
+checkout = vcsh clone https://github.com/svrvt/vc_zathura.git
 
 # vi: ft=ini syntax=sh
